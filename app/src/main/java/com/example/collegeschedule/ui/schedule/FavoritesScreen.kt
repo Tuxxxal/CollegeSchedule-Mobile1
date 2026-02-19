@@ -1,4 +1,4 @@
-package com.example.collegeschedule.ui.schedule
+package com.example.collegeschedule.ui.favorites
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*

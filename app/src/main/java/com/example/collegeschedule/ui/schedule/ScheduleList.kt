@@ -13,6 +13,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.example.collegeschedule.data.dto.ScheduleByDateDto
+import com.example.collegeschedule.utils.FavoritesManager
 
 @Composable
 fun ScheduleList(data: List<ScheduleByDateDto>) {
